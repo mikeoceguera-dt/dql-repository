@@ -28,6 +28,7 @@ We welcome contributions to this repository! If you have any examples, use cases
 - 4. Test your example to ensure it works as expected.
 - 5. Submit a pull request with a clear description of your changes.
 - 6. If you have any questions or need assistance, feel free to reach out to the Dynatrace NOLA ACE Services team.
+- Extra note: If you want to share a solution that you already provided in [Dynatrace Community](https://community.dynatrace.com/) add the link of the issue were you participated to get more context.
   
 
 ## Guides to collaborate
