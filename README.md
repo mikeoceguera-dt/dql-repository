@@ -32,19 +32,18 @@ We welcome contributions to this repository! If you have any examples, use cases
   
 
 ## Guides to collaborate
-- [How to create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/creating-a-pull-request)
-- [How to create a branch](https://docs.github.com/en/get-started/using-git/creating-and-deleting-branches-within-your-repository)
-- [How to commit changes](https://docs.github.com/en/get-started/using-git/managing-changes-in-a-pull-request)
+- [How to create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+- [How to create a branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository)
+- [How to commit changes](https://github.com/git-guides/git-commit)
 - [How to write a good commit message](https://chris.beams.io/posts/git-commit/)
-- [How to write a good pull request description](https://www.freecodecamp.org/news/how-to-write-a-good-pull-request-description/)
-- [How to write a good README](https://www.makeareadme.com/)
+- [How to write a good pull request description](https://www.pullrequest.com/blog/writing-a-great-pull-request-description/)
 
 ## Getting Started with DQL
 To get started with DQL, you can refer to the official Dynatrace documentation and resources:
-- [Dynatrace DQL Documentation](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dql/)
-- [Dynatrace DQL Examples](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dql/examples/)
-- [Dynatrace DQL Cheat Sheet](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dql/cheat-sheet/)
-- [Dynatrace DQL Best Practices](https://www.dynatrace.com/support/help/how-to-use-dynatrace/dql/best-practices/)
+- [Dynatrace DQL Documentation](https://docs.dynatrace.com/docs/discover-dynatrace/references/dynatrace-query-language)
+- [Dynatrace DQL Examples](https://docs.dynatrace.com/docs/discover-dynatrace/references/dynatrace-query-language/dql-use-cases)
+- [Dynatrace DQL Cheat Sheet](https://docs.dynatrace.com/docs/discover-dynatrace/references/dynatrace-query-language/commands)
+- [Dynatrace DQL Best Practices](https://docs.dynatrace.com/docs/discover-dynatrace/references/dynatrace-query-language/dql-best-practices)
 
 ## License
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as long as you include the original license.
